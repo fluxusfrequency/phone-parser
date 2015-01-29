@@ -2,6 +2,7 @@
 
 An example node module that parses U.S. phone numbers.
 
+On [NPM](https://www.npmjs.com/package/us-phone-parser)
 
 ## Use
 
