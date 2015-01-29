@@ -1,0 +1,19 @@
+{
+  "name": "phone-parser",
+  "version": "1.0.0",
+  "description": "Clean U.S Phone Numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fluxusfrequency/phone-parser.git"
+  },
+  "author": "Ben Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluxusfrequency/phone-parser/issues"
+  },
+  "homepage": "https://github.com/fluxusfrequency/phone-parser"
+}
