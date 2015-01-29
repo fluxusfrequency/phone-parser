@@ -1,6 +1,6 @@
 {
   "name": "us-phone-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clean U.S Phone Numbers",
   "main": "index.js",
   "scripts": {
