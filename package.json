@@ -1,10 +1,10 @@
 {
-  "name": "phone-parser",
+  "name": "us-phone-parser",
   "version": "1.0.0",
   "description": "Clean U.S Phone Numbers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node test/phone-number_test.spec.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fluxusfrequency/phone-parser/issues"
   },
-  "homepage": "https://github.com/fluxusfrequency/phone-parser"
+  "homepage": "https://github.com/fluxusfrequency/phone-parser",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }
